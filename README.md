@@ -1,4 +1,4 @@
-Presented by Ya'eer Kidron & Yulia RYvkin & Yair Toledano
+Presented by Ya'eer Kidron & Yulia Ryvkin & Yair Toledano
 
 
 # Social-Behavior-in-Drosophila
